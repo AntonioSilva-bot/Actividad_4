@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type = Application
+Name = MP3
+Exec = /home/pi/Desktop/mp3_dir
+Icon = /home/pi/Desktop/Actividad/MP3/Multimedia/ico.jpeg
+Terminal = false (tried true)
+Comment = "Reto TE2003"
